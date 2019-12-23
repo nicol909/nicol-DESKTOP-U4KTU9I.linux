@@ -3302,6 +3302,7 @@
     <None Include="E:\Toolkit\Backup\DESKTOP-U4KTU9I\c\SysWOW64\zipcontainer.dll" />
     <None Include="E:\Toolkit\Backup\DESKTOP-U4KTU9I\c\SysWOW64\zipfldr.dll" />
     <None Include="E:\Toolkit\Backup\DESKTOP-U4KTU9I\c\SysWOW64\ztrace_maps.dll" />
+    <None Include="E:\Toolkit\Backup\Jobs\DESKTOP-U4KTU9I_nicol_04b1885f-5be2-410c-bf9a-7dc507bf9f57.nji" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="E:\Toolkit\Backup\DESKTOP-U4KTU9I\c\SysWOW64\%40AppHelpToast.png">
